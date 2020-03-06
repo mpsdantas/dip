@@ -1,2 +1,2 @@
-# dip
-Digital image processing
+# DIP
+Repository with codes of digital image processing classes
